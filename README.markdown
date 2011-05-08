@@ -16,8 +16,8 @@ The inspiration for writing this plugin came from this question on WordPress.Sta
 
 #### FAQ ####
 
-Q.) Where is the tracking code output?
+Q.) Where is the tracking code output?  
 A.) It's output in your footer using the wp_footer hook
 
-Q.) Does this include the new page load time tracking?
+Q.) Does this include the new page load time tracking?  
 A.) Yes
