@@ -4,6 +4,8 @@
 
 WordPress plugin to add Google Analytics Tracking Code including the new tracking for page load time
 
+The inspiration for writing this plugin came from this question on WordPress.Stackexchange.com http://wordpress.stackexchange.com/questions/16406/analytics-plugins-that-allow-for-inclusion-of-trackpageloadtime
+
 ### Installation Instructions ###
 
 1. Upload C3M-Google-Analytics.zip to WordPress using the plugin installer
